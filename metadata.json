@@ -1,0 +1,8 @@
+
+{
+  "name": "HVAC Consult-MIS India",
+  "description": "Enterprise-grade HVAC Consultancy MIS for Indian projects, focused on rigorous engineering inputs, BOQ accuracy, cash leak detection, and compliance tracking.",
+  "requestFramePermissions": [
+    "geolocation"
+  ]
+}
